@@ -18,9 +18,9 @@ Frontend: React + Vite | Backend: FastAPI | Database: SQLite
 
 ### Commands to run 
 Backend:
-cd backend
+cd backend,
 python -m uvicorn app.main:app --reload --port 8000
 
 Frontend:
-cd frontend
+cd frontend,
 npm run dev
