@@ -15,3 +15,12 @@ A simple and modern **team appointment management system** built with **React, F
 ## Tech Stack
 
 Frontend: React + Vite | Backend: FastAPI | Database: SQLite
+
+### Commands to run 
+Backend:
+cd backend
+python -m uvicorn app.main:app --reload --port 8000
+
+Frontend:
+cd frontend
+npm run dev
