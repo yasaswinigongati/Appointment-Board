@@ -1,8 +1,8 @@
-## Appointment Board
+# Appointment Board
 
 A simple and modern **team appointment management system** built with **React, FastAPI, and SQLite**.
 
-# Features
+## Features
 
 * 📌 Create & Edit appointments with client, date, and time details
 * ✅ Complete / Cancel appointments with clear status tracking
@@ -12,6 +12,6 @@ A simple and modern **team appointment management system** built with **React, F
 * ⚡ Fast REST APIs powered by FastAPI
 * 🗄️ SQLite Database for simple, zero-configuration storage
 
-# Tech Stack
+## Tech Stack
 
 Frontend: React + Vite | Backend: FastAPI | Database: SQLite
